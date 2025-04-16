@@ -39,6 +39,14 @@ window.onload = function() {
         function handleSubmit() {
             const value = promptInput.value.trim();
             customPrompt.style.display = 'none';
+        
+            musicPlayer.play().then(() => {
+                musicPlayer.pause();
+                musicPlayer.currentTime = 0;
+            }).catch((e) => {
+                console.warn("Audio unlock failed:", e);
+            });
+        
             if (callback) callback(value);
         }
         
