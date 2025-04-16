@@ -98,7 +98,7 @@ window.onload = function() {
     clearInterval(interval);
     container.style.display = 'none';
 
-    result.innerHTML = `<div id="guessLine">Ang imong gi huna2 daw nga number kay ${userInput}</div>`;
+    result.innerHTML = `<div id="guessLine">Ang imong gi huna2<br> daw nga number kay ${userInput}</div>`;
 
 
     setTimeout(() => {
