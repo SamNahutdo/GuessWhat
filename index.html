@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="main.css">
+    <script src="main.js"></script>
+    <title>Sam Guessing site</title>
+</head>
+<body>
+    <div class="loading-container" id="loadingContainer">
+        <div class="percentage" id="loadingText">Aysa tawgon sa nahos SamNahutdo</div>
+        <div class="progress-bar">
+            <div class="progress-fill"></div>
+        </div>
+    </div>
+    <div id="result"></div>
+
+    <div class="custom-alert" id="customAlert">
+        <div class="alert-content">
+            <div class="alert-title" id="alertTitle">Alert</div>
+            <div class="alert-message" id="alertMessage">This is a message</div>
+            <div class="alert-buttons">
+                <button class="alert-btn alert-btn-primary" id="alertOk">OK</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="custom-prompt" id="customPrompt">
+        <div class="prompt-content">
+            <div class="alert-title" id="promptTitle">Tagnaon nako imong gihunahuna</div>
+            <div class="alert-message" id="promptMessage">Pag huna2 og number then i butang sa ubos</div>
+            <input type="number" class="prompt-input" id="promptInput" min="1" max="10">
+            <div class="alert-buttons">
+                <button class="alert-btn alert-btn-secondary" id="promptCancel">Cancel</button>
+                <button class="alert-btn alert-btn-primary" id="promptSubmit">Submit</button>
+            </div>
+        </div>
+    </div>
+    
+    <audio id="victoryMusic" src="bulong.mp3" preload="auto"></audio>
+</body>
+</html>
