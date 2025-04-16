@@ -19,7 +19,7 @@
 
 
 ***Result of Chooice***
-![3rd](https://github.com/SamNahutdo/GuessWhat/blob/main/img3.jpg)
+![3rd](https://github.com/SamNahutdo/GuessWhat/blob/main/img3.png)
 
 
 
