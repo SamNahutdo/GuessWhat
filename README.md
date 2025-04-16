@@ -1,7 +1,7 @@
 # GuessWhat
 
 ***Main Page***
-![alt tag](https://github.com/SamNahutdo/GuessWhat/blob/main/img1.jpg)
+![main](https://github.com/SamNahutdo/GuessWhat/blob/main/img1.png)
 
 
 
@@ -9,7 +9,8 @@
 
 
 ***Loading Process Page***
-![alt tag](https://github.com/SamNahutdo/GuessWhat/blob/main/img2.jpg)
+![2nd](https://github.com/SamNahutdo/GuessWhat/blob/main/img2.jpg)
+
 
 
 
@@ -18,7 +19,7 @@
 
 
 ***Result of Chooice***
-![alt tag](https://github.com/SamNahutdo/GuessWhat/blob/main/img3.jpg)
+![3rd](https://github.com/SamNahutdo/GuessWhat/blob/main/img3.jpg)
 
 
 
@@ -30,4 +31,4 @@
 
 
 ***Music Played***
-![alt tag](https://github.com/SamNahutdo/GuessWhat/blob/main/img4.jpg)
+![4th](https://github.com/SamNahutdo/GuessWhat/blob/main/img4.jpg)
