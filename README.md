@@ -9,7 +9,7 @@
 
 
 ***Loading Process Page***
-![2nd](https://github.com/SamNahutdo/GuessWhat/blob/main/img2.jpg)
+![2nd](https://github.com/SamNahutdo/GuessWhat/blob/main/img2.png)
 
 
 
