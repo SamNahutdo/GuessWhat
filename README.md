@@ -31,4 +31,4 @@
 
 
 ***Music Played***
-![4th](https://github.com/SamNahutdo/GuessWhat/blob/main/img4.jpg)
+![4th](https://github.com/SamNahutdo/GuessWhat/blob/main/img4.png)
