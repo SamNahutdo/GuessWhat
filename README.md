@@ -1,3 +1,3 @@
 # GuessWhat
 
-![alt text](https://github.com/SamNahutdo/GuessWhat/blob/hacker.jpg?raw=true)
+![alt tag](http://url/to/img.png)
