@@ -1,4 +1,4 @@
-# GuessWhat
+# Guess What
 
 ***Main Page***
 ![main](https://github.com/SamNahutdo/GuessWhat/blob/main/img1.png)
